@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 Riga 1
 Riga 1/2
 Riga 2
 Riga 3
+=======
+Riga 1 
+Riga 1.1
+Riga 2
+Riga 2.2
+>>>>>>> Stashed changes
